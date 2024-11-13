@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>peezycoineth TikTok</title>
+    <link>https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/rss/peezycoineth.xml</link>
+    <description>OK Boomer, all the latest TikToks from peezycoineth</description>
+    <atom:link href="https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/rss/peezycoineth.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>peezycoineth TikTok</title>
+      <link>https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/rss/peezycoineth.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Nov 2024 18:50:13 +0000</lastBuildDate>
+    <item>
+      <title>Get ready for $PEEZY bull season</title>
+      <link>https://tiktok.com/@peezycoineth/video/7434972983665478955</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/thumbnails/peezycoineth/screenshot_f531d7c601a449a48744014700d830bb_1731089556.jpg" / &gt; Get ready for $PEEZY bull season</description>
+      <guid isPermaLink="false">https://tiktok.com/@peezycoineth/video/7434972983665478955</guid>
+      <pubDate>Fri, 08 Nov 2024 18:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>When $PEPE's nervous... $PEEZY's in control.</title>
+      <link>https://tiktok.com/@peezycoineth/video/7434982692619324714</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/daddythefather/tiktok-rss-flat/main/thumbnails/peezycoineth/screenshot_oYBqIkIGAPeHfTUAuOLcEoaQpALf4rAXoVEURA.jpg" / &gt; When $PEPE's nervous... $PEEZY's in control.</description>
+      <guid isPermaLink="false">https://tiktok.com/@peezycoineth/video/7434982692619324714</guid>
+      <pubDate>Fri, 08 Nov 2024 18:50:13 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
